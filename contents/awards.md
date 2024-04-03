@@ -1,13 +1,13 @@
 
 
   
-We have benefitted hugely from GEE Resources writen by the community 
+We have benefited hugely from GEE Resources writen by the community 
 
 - GEE Text Book 
 
 - Spatial Thoughts
 
-- Python by Prof Qu Wueshgn
+- Python by Prof Qiusheng Wu
 
 <p>Please Get in touch and Subscribe to our Channels</p>
 <strong>Email</strong> geedevsnairobi@gmail.com</br>
