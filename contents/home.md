@@ -20,11 +20,20 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
 
 Some of the projects we work on;
 - Solutions for climate change and environmental protection
+<<<<<<< HEAD
 - Responsible and consumption and waste management
 - Creating liveable and resilient communities
 - Natural resources conservation 
 - Help protect the environment 
 - Water management
+=======
+- Responsible consumption and waste management
+- Air Quality monitoring for a liveable planet
+- Natural resources conservation 
+- Environment Monitoring  
+- Agriculture for Food Security 
+- Water Quality Monitoring & Management
+>>>>>>> origin/fix
 
 #### Objective
 We focus on decentralising knowledge to the youth and everyone wishing to learn for free .........
@@ -33,5 +42,9 @@ We focus on decentralising knowledge to the youth and everyone wishing to learn 
 Our Projects are community based 
 
 
+<<<<<<< HEAD
 #### Projects and Tools 
+=======
+#### Projects Tools 
+>>>>>>> origin/fix
 Geospatial Data Science, QGIS, Earth Engine, Google Earth Web, Data Commons, Google Maps, Environmental Insight Explorer.
