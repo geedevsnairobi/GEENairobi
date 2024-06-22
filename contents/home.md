@@ -1,7 +1,7 @@
 
-Google Earth Engine Developer Community Nairobi (GEEDEVS Nairobi Community) is an open-source subgroup of the larger Google Developer Groups Nairobi focused on developing sustainable solutions.
+Google Earth Engine Developer Community Nairobi (GEEDEVS Nairobi Community) is an open-source subgroup of the larger Google Developer Groups Nairobi focused on developing sustainable and Nature-Based Solutions.
 
-Digital Innovative Projects for a Healthy and Sustainable Planet.
+Digital Innovative Projects for a Healthy and Livable Planet.
 
 GEE Nairobi is a Unit/Track of GDG Nairobi dedicated to using Earth Observation technologies for creating digital solutions for climate and environment innovations. The community focus on offering hands-on technical skills through workshops, delivering expert-led sessions, open fireside chats, and collaborative project implementation sessions generously to everyone on the planet Earth. 
 The community use Google Earth Engine, Google Earth, Google Maps, Remote Sensing tools and other Earth Observation technologies.
@@ -19,32 +19,25 @@ We achieve our mission by organizing and participating in events like;
 Our Training sessions, Completed projects, Expert Speaker Sessions are shared publicly on our digital channels:
 
 Some of the projects we work on;
+- Nature-Based Innovative Solutions
 - Solutions for climate change and environmental protection
-<<<<<<< HEAD
 - Responsible and consumption and waste management
 - Creating liveable and resilient communities
-- Natural resources conservation 
-- Help protect the environment 
-- Water management
-=======
+- Environmental Monitoring
+- Biodiversity and Natural Resource Conservation
+- Water Quality Monitoring and management
 - Responsible consumption and waste management
 - Air Quality monitoring for a liveable planet
-- Natural resources conservation 
-- Environment Monitoring  
-- Agriculture for Food Security 
-- Water Quality Monitoring & Management
->>>>>>> origin/fix
+- Agriculture for Food Security
+- Impact-Based Solutions for EO Projects
 
 #### Objective
-We focus on decentralising knowledge to the youth and everyone wishing to learn for free .........
+We focus on decentralising knowledge to the youth and everyone globally wishing to learn for FREE ........
 
 #### Trainings 
 Our Projects are community based 
 
 
-<<<<<<< HEAD
 #### Projects and Tools 
-=======
-#### Projects Tools 
->>>>>>> origin/fix
-Geospatial Data Science, QGIS, Earth Engine, Google Earth Web, Data Commons, Google Maps, Environmental Insight Explorer.
+
+Geospatial Data Science, QGIS, Earth Engine, Google Earth Web, Data Commons, Google Maps, Environmental Insight Explorer, Python, JavaScript, R.
